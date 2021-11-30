@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "Rubik";
   background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 20%, rgba(253,29,29,1) 100%);
+background: linear-gradient(90deg, rgb(228, 17, 147) 0%, rgba(131,58,180,1) 60%, rgb(105, 58, 180) 100%);
 }
 
 h3{
@@ -28,6 +28,14 @@ a {
   color: #92badd;
   display: inline-block;
   text-decoration: none;
+}
+
+.avatar{
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
 }
 
 .container{
@@ -160,7 +168,7 @@ a {
 .start-button {
   background-color: #fff;
   border: none;
-  color: #d95550;
+  color: rgba(131,58,180,1);
   padding: 15px 60px;
   text-align: center;
   text-decoration: none;
