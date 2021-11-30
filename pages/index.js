@@ -9,8 +9,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div class="avatar-wrapper" >
-        <span class="avatar-tooltip">Created by Mentari</span>
-        <img src="/avatar.svg" class="avatar" alt="Sliced by Mentari"></img>
+        <span class="avatar-tooltip">Sliced by Mentari</span>
+        <img src="/avatar.svg" class="avatar" alt="avatar roket"></img>
       </div>
       <div class="wrapper">
         <div class="topnav">
