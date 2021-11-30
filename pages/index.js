@@ -60,7 +60,7 @@ export default function Home() {
                 <div className="task-card-ornament"></div>
               <div className="task-card-wrapper">
                 <a href=""><img src="/icon-unchecked.svg" className="icon-check"></img></a>
-                <h4>Slicing Frontent</h4>
+                <h4>Slicing Frontend</h4>
                 <h3>1/1</h3>
                 <div className=""><a href=""><img src="/icon-menu-b.svg"></img></a></div>
               </div>
